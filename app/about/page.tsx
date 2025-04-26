@@ -39,7 +39,7 @@ export default function AboutPage() {
             </div>
             <div className="relative h-[300px] w-full overflow-hidden rounded-lg">
               <Image
-                src="/placeholder.svg?height=600&width=800"
+                src="/images/logo.png"
                 alt="Women empowerment through education"
                 fill
                 className="object-cover"
