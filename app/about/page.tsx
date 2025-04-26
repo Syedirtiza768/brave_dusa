@@ -39,7 +39,7 @@ export default function AboutPage() {
             </div>
             <div className="relative h-[300px] w-full overflow-hidden rounded-lg">
               <Image
-                src="/images/logo.png"
+                src="/images/logo2.png"
                 alt="Women empowerment through education"
                 fill
                 className="object-cover"
